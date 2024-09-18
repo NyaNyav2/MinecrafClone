@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MinecrafClone/static/css/main.30388bd5.css",
+    "main.js": "/MinecrafClone/static/js/main.a412c0ea.js",
+    "index.html": "/MinecrafClone/index.html",
+    "main.30388bd5.css.map": "/MinecrafClone/static/css/main.30388bd5.css.map",
+    "main.a412c0ea.js.map": "/MinecrafClone/static/js/main.a412c0ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30388bd5.css",
+    "static/js/main.a412c0ea.js"
+  ]
+}
